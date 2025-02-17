@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**stailend/stailend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **stailend**, a passionate engineer specializing in **Artificial Intelligence and Cybersecurity**.  
+I love working with **Machine Learning (ML)** and **Deep Learning (DL)**.
 
-Here are some ideas to get you started:
+### 🔥 About Me  
+- 🎓 **Education:** Bachelor's in Engineering, currently pursuing a Master's in **AI & Cybersecurity**
+   
+- 🖥 **Tech Stack:** Python, C++, SQL, Solidity, Rust (learning)
+  
+- 🚀 **Experience:** 1 year as cybersecurity specialist, 3 month as DS
+- 📚 **Courses Completed:**  
+  - VK Education **"Introduction to ML"**  
+  - CryptoZombies **"Solidity: Beginner to Intermediate"**  
+  - Digital Department BMSTU **"Introduction to Cybersecurity"**
+  - Digital Department BMSTU **"DevOps engineer"**  
+  - And many more in programming & AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
