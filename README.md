@@ -8,7 +8,7 @@ I love working with **Machine Learning (ML)** and **Deep Learning (DL)**.
    
 - 🖥 **Tech Stack:** Python, C++, SQL, Solidity, Rust (learning)
   
-- 🚀 **Experience:** 1 year as cybersecurity specialist, 3 months as DS
+- 🚀 **Experience:** 1 year as cybersecurity specialist, 4 months as DS
 - 📚 **Courses Completed:**  
   - VK Education **"Introduction to ML"**  
   - CryptoZombies **"Solidity: Beginner to Intermediate"**  
