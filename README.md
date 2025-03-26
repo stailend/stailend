@@ -10,7 +10,7 @@ I love working with **Machine Learning (ML)** and **Deep Learning (DL)**.
   
 - 🚀 **Work Experience:** 1 year as cybersecurity specialist, 4 months as DS
 - 📚 **Courses Completed:**  
-  - VK Education **"Introduction to ML"**  
+  - VK Education **"Introduction to ML"** - 1 year 
   - CryptoZombies **"Solidity: Beginner to Intermediate"**  
   - Digital Department BMSTU **"Introduction to Cybersecurity"**
   - Digital Department BMSTU **"DevOps engineer"**  
