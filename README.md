@@ -4,7 +4,11 @@ I'm **stailend**, a passionate engineer specializing in **Artificial Intelligenc
 I love working with **Machine Learning (ML)** and **Deep Learning (DL)**.
 
 ### 🔥 About Me  
-- 🎓 **Education:** Bachelor's in Engineering, currently pursuing a Master's in **AI & Cybersecurity**
+- 🎓 **Education:** Bachelor's in Engineering, Master's in **AI & Cybersecurity**
+
+- 📝 **Languages:** Python, C++, Solidity, SQL, Rust 
    
-- 🖥 **Tech Stack:** Python, C++, SQL, Solidity, Rust 
+- 🖥 **Tech Stack:** Linux, Docker, Git, Hardhat, Foundry
+  
+
   
